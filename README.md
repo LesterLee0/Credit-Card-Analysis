@@ -14,5 +14,7 @@ Keeping a customer costs a lot less than finding a new one. So if the bank can s
 - Source: [Credit Card Customers](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers) from Kaggle
 - 10,127 customers, 21 columns after cleaning
 - 1,627 customers left (16.07%); 8,500 stayed
-
+# Cleaned Data
+- The file came in pretty clean. I dropped the last two columns in the raw file because they were leftover predictions.
+- Kept 'Unknown' instead of leaving the cells blank.
   
